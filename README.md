@@ -1,5 +1,4 @@
 # Stamatics-13
-
 |             |MACD |Bollinger Bands |Keltner Channels|
 |-------------|---------|---------|---------|
 |Cumulative   Returns      |  2497.0890575583403       |  12602.627670056005       | 1200.7435868315558 |     
